@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DangerZone</string>
+    <string name="name">Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="user_name">User Name:</string>
+    <string name="password">Password:</string>
+    <string name="country">Country:</string>
+    <string name="register">Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mail">Mail:</string>
+    <string name="birthday">Birthday:</string>
+    <string name="danger_zone">Danger Zone</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">don\'t have an account?</string>
+    <string name="register_here">Register here!</string>
+    <string name="logout">Logout</string>
+    <string name="provincia">Provincia:</string>
+    <string name="sector">Sector:</string>
+    <string name="detalles">Detalles</string>
+    <string name="description">descripcion</string>
+    <string name="send">Registrar zona peligrosa</string>
+    <string name="ok">OK</string>
+    <string name="please_wait">Please wait...</string>
+</resources>

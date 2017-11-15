@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "359960725658",
+    "firebase_url": "https://cogent-precinct-176506.firebaseio.com",
+    "project_id": "cogent-precinct-176506",
+    "storage_bucket": "cogent-precinct-176506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359960725658:android:92a0903c464a50aa",
+        "android_client_info": {
+          "package_name": "com.personal.neycasilla.dangerousroutes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359960725658-rhfcj48l5ckcf51uq3kv04eugqos8h52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.personal.neycasilla.dangerousroutes",
+            "certificate_hash": "3b279544e9691e2897f4d186c3b74b98446892f1"
+          }
+        },
+        {
+          "client_id": "359960725658-ujfqptiq7q73b5faeuta6ilmoefap9ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVaI7HnwmQdjM-H2GIXlk7C5iwU727z2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359960725658-ujfqptiq7q73b5faeuta6ilmoefap9ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
